@@ -13,7 +13,7 @@ import Button from '@mui/material/Button';
 import TextField from '@mui/material/TextField';
 import {Edit, Delete} from '@mui/icons-material';
 
-const baseUrl='http://localhost:3000/api/peliculas'
+const baseUrl='http://localhost:3001/baseUrl'
 
 
 function App() {
