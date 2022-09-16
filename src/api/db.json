@@ -1,0 +1,39 @@
+{
+  "baseUrl": [
+    {
+      "nombre": "PlayStation 4",
+      "empresa": "Sony",
+      "lanzamiento": "2013",
+      "unidades_vendidas": "7700",
+      "id": 1
+    },
+    {
+      "nombre": "Xbox 360",
+      "empresa": "Microsoft",
+      "lanzamiento": "2012",
+      "unidades_vendidas": "2350",
+      "id": 2
+    },
+    {
+      "nombre": "PlayStation 4",
+      "empresa": "Sony",
+      "lanzamiento": "2013",
+      "unidades_vendidas": "7700",
+      "id": 3
+    },
+    {
+      "nombre": "PlayStation 5",
+      "empresa": "Sony",
+      "lanzamiento": "2020",
+      "unidades_vendidas": "1000",
+      "id": 4
+    },
+    {
+      "nombre": "PlayStation 4",
+      "empresa": "Sony",
+      "lanzamiento": "2013",
+      "unidades_vendidas": "7000",
+      "id": 5
+    }
+  ]
+}
